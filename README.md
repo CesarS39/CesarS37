@@ -1,9 +1,10 @@
 <div align="center">
 <h1 align="center">CesarS37</a> 🎾</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://yt3.googleusercontent.com/VZJgguXrg-dVwaKyrGBO6v6OVM8tCPE_jFAScQcv9yc1rIq34jxMTDr6gjDIpuAbxNMIy5lmqA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
 
-[![Twitch Status](https://img.shields.io/twitch/status/cesarsamuel37?style=social)](https://www.twitch.tv/cesarsamuel37)
+[![Twitch Status](https://img.shields.io/twitch/status/Cesarsamuel37?style=social)](https://www.twitch.tv/Cesarsamuel37)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEb2JAOA9o9STwoF_kmLtUw?style=social)](https://youtube.com/CesarS47?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/CesarS39?style=social)](https://github.com/CesarS39)
 
 ## Sobre mi
